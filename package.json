@@ -1,6 +1,8 @@
 {
   "name": "meteor-ssr-react",
-  "private": true,
+  "description": "Example of Meteor App with Server Side Rendering with React and Materialize-CSS.",
+  "private": false,
+  "license": "MIT",
   "scripts": {
     "start": "meteor run"
   },
