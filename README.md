@@ -10,4 +10,5 @@ $ meteor npm install
 ```
 
 ## Run
+In project folder:
 ```$ meteor```
